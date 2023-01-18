@@ -1,2 +1,2 @@
 # variational-bayes
-Algorithms for inference +
+Algorithms for inference in Gaussian Mixture Models.
