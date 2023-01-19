@@ -1,6 +1,6 @@
 """
 Comparison between CAVI and collapsed Gibbs sampling in fitting a
-Bayesian GMM to a toy dataset
+Bayesian GMM to a synthetic dataset
 """
 
 import numpy as np
