@@ -31,10 +31,6 @@ Bayesian GMM to synthetic data.
 
 * `mnist_vae.py`: demo of a simple Variational Autoencoder applied to MNIST data.
 
-* `celeba_vae_ae_comparison.ipynb`:
-
-
-
-
+* `celeba_vae_ae_comparison.ipynb`: notebook that applies a Convolutional VAE to celebrity faces data (CelebA) and compares it with a corrispondent deterministic AE.
 
 
