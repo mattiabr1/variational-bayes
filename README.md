@@ -14,7 +14,7 @@ Python implementation of the algorithms used in my Master's thesis. Most of them
 
 * `svi_bgmm.py`: Stochastic Variational Inference for the Bayesian Gaussian Mixture Model.
 
-### Analyses
+### Analysis
 
 * `cavi_simulation.py`: fit a BGMM to synthetic data via CAVI.
 
